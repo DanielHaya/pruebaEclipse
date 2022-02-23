@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Ejemplo {
 
 	public static void main(String[] args) {
-		
+		//hola
 		int [] z = new int [10];
 		Scanner teclado = new Scanner (System.in);
 		
